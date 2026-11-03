@@ -1,16 +1,16 @@
-Origin: 
-Label: 
+Origin: 我的越狱源
+Label: 我的越狱源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 
+Description: 我的越狱源
 Support: https://hhb19981028.github.io/
 Icon: https://hhb19981028.github.io/CydiaIcon.png
 MD5Sum:
  13baa240929e5249199aa03d6e76fcea  669 Packages
- dab7a0ac7d0e9ee827b7312faae66b06  493 Packages.gz
+ 80c63f122683eb72a03b2621fc3e433e  493 Packages.gz
 SHA256:
  f0507c87b5e61d2eae0912eb3e775ce2a7819815eb94286fc3c814017341a926  669 Packages
- 895911d09dcfe47fdb763b5c5e66aae85a5a1d99311d1852294ca33a7908e53d  493 Packages.gz
+ 2aec11f0ff7423d0547566188759372ddc171afe8dc09434b7ee465f4d23781e  493 Packages.gz
