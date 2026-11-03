@@ -1,16 +1,1 @@
-Package: com.34306.watched
-Architecture: iphoneos-arm64e
-Version: 1.1-10+debug
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: debs/com.34306.watched_1.1-10_debug_iphoneos-arm64e.deb
-Size: 5792
-MD5sum: b133709066391ab7b0cd97ec759d74d2
-SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
-SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
-SHA512: c76e485b21ce5cbdc1126e82db168037923ae84ab46af9ef436d3183b8b324216ff34181f42325b7ce142532687ab42edb34b039b1eb441244fce7b58f75762e
-Section: 插件
-Description: Paired your Apple Watch on new watchOS with older iOS
-Name: watched
-Author: 34306
+
