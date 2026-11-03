@@ -1,16 +1,16 @@
-Origin: 我的越狱源
-Label: 我的越狱源
+Origin: HHB
+Label: HHB
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 我的越狱源
+Description: HHB
 Support: https://hhb19981028.github.io/
 Icon: https://hhb19981028.github.io/CydiaIcon.png
 MD5Sum:
  68b329da9893e34099c7d8ad5cb9c940  1 Packages
- 76797c7dc106ab9e214019c60d2d4303  30 Packages.gz
+ f4de46ec4612af44d881c5487282d929  30 Packages.gz
 SHA256:
  01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  1 Packages
- 8cb06defbcaa020d4084c6e88b807cdba9a75f6b25f29693427ad5083efccafd  30 Packages.gz
+ ed30845149209612152f785fa754049abe1b07b142c1f37aca5213f8d111f946  30 Packages.gz
